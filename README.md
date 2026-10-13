@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/Version-V4.2-blue?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Built%20On-Termux%20Android-black?style=for-the-badge&logo=android)
-![Location](https://img.shields.io/badge/Location-Mangku Bumi-orange?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Mangku%20Bumi%20Bumi-orange?style=for-the-badge)
 ![PDF](https://img.shields.io/badge/Report-Auto%20PDF-red?style=for-the-badge&logo=adobeacrobatreader)
 ![Time](https://img.shields.io/badge/Built-02:50%20WIB%20Live-green?style=for-the-badge)
 
