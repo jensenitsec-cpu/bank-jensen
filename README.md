@@ -25,3 +25,8 @@
 ### 📦 Files in This Repo
 E0F
 # Fix by Jensen Pablo Mangku Bumi
+
+## ❤️ Support Mangku Bumi - Pematangsiantar
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4%EF%B8%8F_Mangku_Bumi-orange)](https://saweria.co/jensenpablo)
+Donasi via Saweria untuk support development Bank Scanner V4.2 - Built on Termux Android!
+
