@@ -1,33 +1,26 @@
-# 🏦 JENSEN - Bank & Website Security Scanner V4.1
+# 🏦 JENSEN V4.2 - Bank Security Scanner + Auto PDF Report
 
-![Android](https://img.shields.io/badge/Built%20on-Android%20Termux-3DDC84?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Shell-Bash-121011?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-V4.2-blue?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Built%20On-Termux%20Android-black?style=for-the-badge&logo=android)
+![Location](https://img.shields.io/badge/Location-Pematangsiantar-orange?style=for-the-badge)
+![PDF](https://img.shields.io/badge/Report-Auto%20PDF-red?style=for-the-badge&logo=adobeacrobatreader)
+![Time](https://img.shields.io/badge/Built-02:50%20WIB%20Live-green?style=for-the-badge)
 
-> Real-time Bank Security Scanner built on **Android Termux** by **JENSEN SULTAN** - Pematangsiantar
+> **100% Built on Android Phone from Pematangsiantar, North Sumatra - 02:50 WIB**
 
-### 🔥 V4.1 Live Results (14 Oct 2026 - 02:24 WIB)
+### 🚀 What's New in V4.2?
+- ✅ **Auto PDF Report Generator** - `JENSEN_V4.2_Report.pdf`
+- ✅ Scan 4 Banks in one run (Mandiri, BCA, BRI, BNI)
+- ✅ Security Headers Audit (HSTS, CSP, X-Frame, X-Content)
+- ✅ Professional PDF ready for Bug Bounty submission
 
+### 📊 Live Scan Results (14 Oct 2025 - 02:46 WIB)
 | Bank | Domain | Score | Status |
 |------|--------|-------|--------|
-| **Mandiri** | bankmandiri.co.id | **96/100** | 🟢 Most Secure |
-| **BCA** | bca.co.id | **80/100** | 🟢 Good |
-| **BSI** | bsi.co.id | **48/100** | 🟡 Medium |
-| **BRI** | bri.co.id | **16/100** | 🔴 Risky |
-| **BNI** | bni.co.id | **16/100** | 🔴 Risky |
+| **Mandiri** | bankmandiri.co.id | **96/100** | 🟢 MOST SECURE |
+| **BCA** | bca.co.id | **80/100** | 🟢 SECURE |
+| **BSI** | bsi.co.id | 65/100 | 🟡 MEDIUM |
+| **BRI/BNI** | bri.co.id | <30/100 | 🔴 RISKY |
 
-Scanned from: Termux Android 13 - Pematangsiantar [02:33 WIB]
-
-### ⚡ Features V4.1
-- Auto-detect User-Agent bypass (BCA/BRI block default curl)
-- Security Headers Audit: HSTS, CSP, X-Frame, etc
-- SSL Certificate expiry check
-- Real scoring 0-100
-- Pure Bash
-
-### 📲 Install
-```bash
-pkg install git curl openssl-tool -y
-git clone https://github.com/jensenitsec-cpu/bank-jensen.git
-cd bank-jensen
-chmod +x jensen-v4.sh
-./jensen-v4.sh
+### 📦 Files in This Repo
+E0F
