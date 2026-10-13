@@ -1,0 +1,7 @@
+# V4.1 RESULTS (02:24 WIB 14-10-2026 - Termux Siantar)
+BCA 80/100 - Good
+BRI 16/100 - Risky
+【entity-Mandiri¦canonical_name=Bank Mandiri】 96/100 - Most Secure
+BNI 16/100
+BSI 48/100
+Scanned from Android Termux in Pematangsiantar
