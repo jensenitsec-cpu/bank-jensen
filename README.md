@@ -6,7 +6,7 @@
 ![PDF](https://img.shields.io/badge/Report-Auto%20PDF-red?style=for-the-badge&logo=adobeacrobatreader)
 ![Time](https://img.shields.io/badge/Built-02:50%20WIB%20Live-green?style=for-the-badge)
 
-> **100% Built on Android Phone from Pematangsiantar, North Sumatra - 02:50 WIB**
+> **100% Built on Android Phone from pablo_$_Jensen, North Sumatra - 02:50 WIB**
 
 ### 🚀 What's New in V4.2?
 - ✅ **Auto PDF Report Generator** - `JENSEN_V4.2_Report.pdf`
